@@ -1,5 +1,5 @@
 #ifndef SDL_FUNC_H
-#define SDL_FUNC_h
+#define SDL_FUNC_H
 
 #include <err.h>
 #include "SDL/SDL.h"
